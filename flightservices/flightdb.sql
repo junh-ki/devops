@@ -1,4 +1,5 @@
-USE reservation;
+CREATE DATABASE flights;
+USE flights;
 
 CREATE TABLE flight
 (
